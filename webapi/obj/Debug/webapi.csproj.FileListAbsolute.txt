@@ -1,0 +1,2 @@
+D:\projects\webapi\webapi\obj\Debug\webapi.csprojAssemblyReference.cache
+D:\projects\webapi\webapi\obj\Debug\webapi.csproj.CoreCompileInputs.cache
